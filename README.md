@@ -7,7 +7,7 @@ This is a telegram bot that allows the user to check for a bitcoin address balan
 
 
 ## Usage
-*To start run `python main.py` in the project folder.
+*To start run `python telegram/main.py` in the project folder.
 
 ## Project Status
 * Project was built on a Windows environment.
