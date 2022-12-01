@@ -55,7 +55,7 @@ class Functions:
             return Functions.balance_btc(data)
 
         else: 
-            return "There was some error"
+            return "This is not a Bitcoin address! Try again!"
 
     
     
